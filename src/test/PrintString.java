@@ -1,0 +1,12 @@
+package test;
+
+public class PrintString {
+	static String a;
+	public static void main(String[] args) {
+		a="123";
+		System.out.println(a);
+		System.out.println("789");
+		System.out.println("456");
+	}
+
+}
